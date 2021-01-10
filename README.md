@@ -1,12 +1,8 @@
-# Flutter-Egitim-Kaynaklari
-Yazılım konusunda hangi düzeyde olursanız olun bu repo size Flutter ile alakalı eğitim ve içerikleri (Yazı, Video) sunmak için hazırlanmıştır.
-
-
 
 ![banner resmi](https://www.emanprague.com/en/wp-content/uploads/2018/05/flutter_eman_blog.png)
 
-# Python-Egitim-Kaynaklari
-Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kaynakları (Video Eğitim, Makale, Çeviri, Slayt vb..) bulabilirsiniz. Kaynaklar hazırlanırken bu konuda uzman kişilerin önerileri ve eğitimde odaklanmayı sürdürülebilir hale getirebilen eğitimler baz alınmıştır, faydalı olması temennisiyle!
+# Flutter-Egitim-Kaynaklari
+Bu sayfada Flutter proglamlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kaynakları (Video Eğitim, Makale, Çeviri, Slayt vb..) bulabilirsiniz. Kaynaklar hazırlanırken bu konuda uzman kişilerin önerileri ve eğitimde odaklanmayı sürdürülebilir hale getirebilen eğitimler baz alınmıştır, faydalı olması temennisiyle!
 
 ## İçerikler
 </br>
