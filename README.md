@@ -3,7 +3,7 @@ Yazılım konusunda hangi düzeyde olursanız olun bu repo size Flutter ile alak
 
 
 
-![banner resmi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflutter.dev%2F&psig=AOvVaw0BPiPyhsQRDH2ZWk1XPmGj&ust=1610399114688000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDK9bCiku4CFQAAAAAdAAAAABAD)
+![banner resmi](https://www.emanprague.com/en/wp-content/uploads/2018/05/flutter_eman_blog.png)
 
 # Python-Egitim-Kaynaklari
 Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kaynakları (Video Eğitim, Makale, Çeviri, Slayt vb..) bulabilirsiniz. Kaynaklar hazırlanırken bu konuda uzman kişilerin önerileri ve eğitimde odaklanmayı sürdürülebilir hale getirebilen eğitimler baz alınmıştır, faydalı olması temennisiyle!
